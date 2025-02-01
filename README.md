@@ -1,3 +1,4 @@
+# coding: python3 utf-8
 # dependencias: pip install random
 
 # Esté codigo é um sorteio feito com a API random. Um bingo no seu Terminal.
